@@ -34,14 +34,14 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 
 -----------------------------------------------------------------------------
 
-<div style=vertical-align="middle>
+
 👀 I’m interested in: <br></br>
-**Languages!**  
+**Languages!**
   <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" >
   <img src="https://user-images.githubusercontent.com/101579022/175764406-e519492d-dae7-4431-902b-98ccfcc10c87.png" width="25px" height="25px"/> 
   <img src="https://user-images.githubusercontent.com/101579022/175764382-2d989e41-ddc6-44f2-979a-9a133f123855.png" width="25px" height="25px"/> 
   <img src="https://user-images.githubusercontent.com/101579022/175764341-8633c04f-cdc6-446e-a71d-67b2576301b6.png" width="25px" height="25px"/> 
-</div>
+
                                                                                                                                               
 **I'm setting up a pipeline to translate youtube content not available in Spanish** with Deepl's API (https://www.deepl.com/pro-api?cta=header-pro-api) and youtube-dl (https://github.com/ytdl-org/youtube-dl) **that you can find here:** https://github.com/djag477/translator.git
                                                                                                                                               
@@ -64,7 +64,7 @@ The first one
 https://github.com/djag477/todo-app-react
 
 It's a first try at a React after learning the fundamentals 
-To-Do's were being created, rendered on screen and also removed when necessary,
+To-Do's were being created, rendered on screen and also removed when necessary, <br></br>
 **but I hit a wall:**
 When it came to adding an edit button, I realized my understanding of states was still limited.
 
