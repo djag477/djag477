@@ -79,10 +79,3 @@ Credits to <a href="https://github.com/briancodex/react-todo-app-v1" title="Midd
 
 
 
-SHORTCUTS
------------------------------------------------------------------------------
-
-
-
-
-
