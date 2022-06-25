@@ -4,27 +4,48 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+.
+
+<h1 align="center" dir="auto">  Hi 👋, I'm Daniel</h1>
+
+I started learning to code before I ever realized I'd like to make the jump in the future, just to better collaborate in agile and cross-functional performance marketing teams.
+
+
+<div style=vertical-align="middle>
+👀 I’m interested in: Languages!  
+  <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" vertical-align="sub">
+  <img src="https://user-images.githubusercontent.com/101579022/175764406-e519492d-dae7-4431-902b-98ccfcc10c87.png" width="25px" height="25px"/> 
+  <img src="https://user-images.githubusercontent.com/101579022/175764382-2d989e41-ddc6-44f2-979a-9a133f123855.png" width="25px" height="25px"/> 
+  <img src="https://user-images.githubusercontent.com/101579022/175764341-8633c04f-cdc6-446e-a71d-67b2576301b6.png" width="25px" height="25px"/> 
+</div>
+
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 
 
 SKILLS & TOOLS
------------------------------------------------------------------------------
 
 ![icons8-python-48](https://user-images.githubusercontent.com/101579022/175761197-64000830-9717-4175-93c9-827f06894b55.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/101579022/175761211-c11f5a12-74f3-45a3-9443-ed559d85e550.png)
+<img src="https://user-images.githubusercontent.com/101579022/175761868-001bb518-6d29-4984-b4e2-2e81f14e0dca.svg" width="50px" height="50px"/>
 ![icons8-html-5-48](https://user-images.githubusercontent.com/101579022/175761214-4ebc45e0-2c2b-411c-a833-4bbcdb446488.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/101579022/175761212-da983b93-4c72-4a1b-a90e-b7f8e456b489.png)
 ![icons8-bootstrap-48](https://user-images.githubusercontent.com/101579022/175761209-f5e1910e-be55-49ba-8d2d-084ac213a919.png)
+<img src="https://user-images.githubusercontent.com/101579022/175761870-3db90a15-7591-4805-9bd3-44d1bd2bd088.svg" width="50px" height="50px"/>
 <img src="https://user-images.githubusercontent.com/101579022/175761206-6aa8b3ca-e5e6-406d-9e95-afcbdcfe0433.png" width="50px" height="50px"/>
 ![icons8-git-48](https://user-images.githubusercontent.com/101579022/175761208-abd172a0-9d98-4d24-8565-5d102f677dba.png)
+<img src="https://user-images.githubusercontent.com/101579022/175761871-b0978fb7-f284-4bd1-8782-d68fd52ed2aa.svg" width="50px" height="50px"/>
+<img src="https://user-images.githubusercontent.com/101579022/175761872-9929fd83-583d-40a1-b58b-8add88fe9cfd.svg" width="50px" height="50px"/>
+
+-----------------------------------------------------------------------------
 
 
 
 SHORTCUTS
 -----------------------------------------------------------------------------
+
+
 
 
 
