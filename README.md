@@ -74,8 +74,9 @@ Credits to <a href="https://github.com/briancodex/react-todo-app-v1" title="Midd
 
 
 -----------------------------------------------------------------------------
-																	   
+<h1>Logic</h1>																	   
 
+Different logic tests solved with Python & JS
+https://github.com/djag477/misc_challenges
 
-
-
+-----------------------------------------------------------------------------
