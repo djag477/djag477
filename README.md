@@ -68,7 +68,7 @@ To-Do's were being created, rendered on screen and also removed when necessary, 
 **but I hit a wall:**
 When it came to adding an edit button, I realized my understanding of states was still limited.
 
-Credits to <a href="https://github.com/briancodex/react-todo-app-v1" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@briancodex</a> for his tutorial that helped clariying the logic https://github.com/djag477/react-todo-full
+Credits to <a href="https://github.com/briancodex/react-todo-app-v1" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@briancodex</a> for his tutorial that helped clariying the logic [https://github.com/djag477/react-todo-full](https://djag477.github.io/todo-react-full/)
 
 
 
