@@ -53,12 +53,15 @@ Marketing & Analytics e.g.: tracking, attribution, API's and automation (WIP)
 -----------------------------------------------------------------------------
 
 🌱 I’m currently learning:
+																	      
+<div>
+<h1><img src="https://user-images.githubusercontent.com/101579022/175761870-3db90a15-7591-4805-9bd3-44d1bd2bd088.svg" width="25px" height="25px" alt="react"/> React</h1>
+</div>
+
+
 
 -----------------------------------------------------------------------------
-																	      
-																	      
-- 💞️ I’m looking to collaborate on ...
-
+																	   
 
 
 
