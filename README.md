@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 I started learning to code before I ever realized I'd like to make the jump in the future, just to better collaborate in agile and cross-functional performance marketing teams.
 
-You can reach me on <a href="https://www.linkedin.com/in/danieljag/" target="_blank"> <img src="https://user-images.githubusercontent.com/101579022/175766217-fd2f92f7-bf6d-404b-866c-a6238a6fd0aa.svg" width="20px" height="20px"></a> and at dalfaromarketing@gmail.com
+You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages"> <img src="https://user-images.githubusercontent.com/101579022/175766217-fd2f92f7-bf6d-404b-866c-a6238a6fd0aa.svg" width="20px" height="20px"></a> and at dalfaromarketing@gmail.com
 
 
 
@@ -57,6 +57,19 @@ Marketing & Analytics e.g.: tracking, attribution, API's and automation (WIP)
 <div>
 <h1><img src="https://user-images.githubusercontent.com/101579022/175761870-3db90a15-7591-4805-9bd3-44d1bd2bd088.svg" width="25px" height="25px" alt="react"/> React</h1>
 </div>
+
+Currently I have 2 To-Do apps in my repositories
+
+The first one
+https://github.com/djag477/todo-app-react
+
+It's a first try at a React after learning the fundamentals 
+To-Do's were being created, rendered on screen and also removed when necessary,
+**but I hit a wall:**
+When it came to adding an edit button, I realized my understanding of states was still limited.
+
+Credits to <a href="https://github.com/briancodex/react-todo-app-v1" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@briancodex</a> for his tutorial that helped clariying the logic https://github.com/djag477/react-todo-full
+
 
 
 
