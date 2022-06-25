@@ -15,6 +15,7 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" target="_bl
 
 
 
+
 <div>
 	<img src="https://user-images.githubusercontent.com/101579022/175761197-64000830-9717-4175-93c9-827f06894b55.png" width="50px" height="50px" alt="python"/>
 	<img src="https://user-images.githubusercontent.com/101579022/175761211-c11f5a12-74f3-45a3-9443-ed559d85e550.png" width="50px" height="50px" alt="javascript"/>
@@ -51,19 +52,14 @@ Marketing & Analytics e.g.: tracking, attribution, API's and automation (WIP)
                                                                                                                                               
 -----------------------------------------------------------------------------
 
-                                                                                                                                              
-                                                                                                                                              
-                                                                                                                                              
-- 🌱 I’m currently learning ... 
+🌱 I’m currently learning:
+
+-----------------------------------------------------------------------------
+																	      
+																	      
 - 💞️ I’m looking to collaborate on ...
 
 
-
-SKILLS & TOOLS
-
-
-
------------------------------------------------------------------------------
 
 
 
