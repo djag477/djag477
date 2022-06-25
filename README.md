@@ -14,6 +14,23 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" target="_bl
 
 
 
+
+<div>
+	<img src="https://user-images.githubusercontent.com/101579022/175761197-64000830-9717-4175-93c9-827f06894b55.png" width="50px" height="50px" alt="python"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761211-c11f5a12-74f3-45a3-9443-ed559d85e550.png" width="50px" height="50px" alt="javascript"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761868-001bb518-6d29-4984-b4e2-2e81f14e0dca.svg" width="50px" height="50px" alt="sqlite"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761214-4ebc45e0-2c2b-411c-a833-4bbcdb446488.png" width="50px" height="50px" alt="html"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761212-da983b93-4c72-4a1b-a90e-b7f8e456b489.png" width="50px" height="50px" alt="css"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761209-f5e1910e-be55-49ba-8d2d-084ac213a919.png" width="50px" height="50px" alt="bootstrap"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761870-3db90a15-7591-4805-9bd3-44d1bd2bd088.svg" width="50px" height="50px" alt="react"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761206-6aa8b3ca-e5e6-406d-9e95-afcbdcfe0433.png" width="50px" height="50px" alt="vs code"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761208-abd172a0-9d98-4d24-8565-5d102f677dba.png" width="50px" height="50px" alt="git"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761871-b0978fb7-f284-4bd1-8782-d68fd52ed2aa.svg" width="50px" height="50px" alt="postman"/>
+	<img src="https://user-images.githubusercontent.com/101579022/175761872-9929fd83-583d-40a1-b58b-8add88fe9cfd.svg" width="50px" height="50px" alt="linux"/>
+</div>
+
+
+
 -----------------------------------------------------------------------------
 
 <div style=vertical-align="middle>
@@ -44,17 +61,7 @@ Marketing & Analytics e.g.: tracking, attribution, API's and automation (WIP)
 
 SKILLS & TOOLS
 
-![icons8-python-48](https://user-images.githubusercontent.com/101579022/175761197-64000830-9717-4175-93c9-827f06894b55.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/101579022/175761211-c11f5a12-74f3-45a3-9443-ed559d85e550.png)
-<img src="https://user-images.githubusercontent.com/101579022/175761868-001bb518-6d29-4984-b4e2-2e81f14e0dca.svg" width="50px" height="50px"/>
-![icons8-html-5-48](https://user-images.githubusercontent.com/101579022/175761214-4ebc45e0-2c2b-411c-a833-4bbcdb446488.png)
-![icons8-css3-48](https://user-images.githubusercontent.com/101579022/175761212-da983b93-4c72-4a1b-a90e-b7f8e456b489.png)
-![icons8-bootstrap-48](https://user-images.githubusercontent.com/101579022/175761209-f5e1910e-be55-49ba-8d2d-084ac213a919.png)
-<img src="https://user-images.githubusercontent.com/101579022/175761870-3db90a15-7591-4805-9bd3-44d1bd2bd088.svg" width="50px" height="50px"/>
-<img src="https://user-images.githubusercontent.com/101579022/175761206-6aa8b3ca-e5e6-406d-9e95-afcbdcfe0433.png" width="50px" height="50px"/>
-![icons8-git-48](https://user-images.githubusercontent.com/101579022/175761208-abd172a0-9d98-4d24-8565-5d102f677dba.png)
-<img src="https://user-images.githubusercontent.com/101579022/175761871-b0978fb7-f284-4bd1-8782-d68fd52ed2aa.svg" width="50px" height="50px"/>
-<img src="https://user-images.githubusercontent.com/101579022/175761872-9929fd83-583d-40a1-b58b-8add88fe9cfd.svg" width="50px" height="50px"/>
+
 
 -----------------------------------------------------------------------------
 
