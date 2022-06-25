@@ -3,18 +3,22 @@ djag477/djag477 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m Daniel
-.
+
+
 
 <h1 align="center" dir="auto">  Hi 👋, I'm Daniel</h1>
 
 I started learning to code before I ever realized I'd like to make the jump in the future, just to better collaborate in agile and cross-functional performance marketing teams.
 
+You can reach me on <a href="https://www.linkedin.com/in/danieljag/" target="_blank"> <img src="https://user-images.githubusercontent.com/101579022/175766217-fd2f92f7-bf6d-404b-866c-a6238a6fd0aa.svg" width="20px" height="20px"></a> and at dalfaromarketing@gmail.com
+
+
 
 -----------------------------------------------------------------------------
 
 <div style=vertical-align="middle>
-👀 I’m interested in: Languages!  
+👀 I’m interested in: <br></br>
+Languages!  
   <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" >
   <img src="https://user-images.githubusercontent.com/101579022/175764406-e519492d-dae7-4431-902b-98ccfcc10c87.png" width="25px" height="25px"/> 
   <img src="https://user-images.githubusercontent.com/101579022/175764382-2d989e41-ddc6-44f2-979a-9a133f123855.png" width="25px" height="25px"/> 
@@ -23,7 +27,9 @@ I started learning to code before I ever realized I'd like to make the jump in t
                                                                                                                                               
 **I'm setting up a pipeline to translate youtube content not available in Spanish** with Deepl's API (https://www.deepl.com/pro-api?cta=header-pro-api) and youtube-dl (https://github.com/ytdl-org/youtube-dl) **that you can find here:** https://github.com/djag477/translator.git
                                                                                                                                               
-I've also been very interested in Nvidia's Text-To-Speech synthesis (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.                                                                   
+I've also been very interested in Nvidia's Text-To-Speech synthesis (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.
+<br></br>
+Marketing & Analytics e.g.: tracking, attribution, API's and automation (WIP) 
                                                                                                                                               
                                                                                                                                               
 -----------------------------------------------------------------------------
@@ -33,7 +39,7 @@ I've also been very interested in Nvidia's Text-To-Speech synthesis (https://git
                                                                                                                                               
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+
 
 
 SKILLS & TOOLS
