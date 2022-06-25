@@ -11,14 +11,26 @@ You can click the Preview link to take a look at your changes.
 I started learning to code before I ever realized I'd like to make the jump in the future, just to better collaborate in agile and cross-functional performance marketing teams.
 
 
+-----------------------------------------------------------------------------
+
 <div style=vertical-align="middle>
 👀 I’m interested in: Languages!  
-  <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" vertical-align="sub">
+  <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" >
   <img src="https://user-images.githubusercontent.com/101579022/175764406-e519492d-dae7-4431-902b-98ccfcc10c87.png" width="25px" height="25px"/> 
   <img src="https://user-images.githubusercontent.com/101579022/175764382-2d989e41-ddc6-44f2-979a-9a133f123855.png" width="25px" height="25px"/> 
   <img src="https://user-images.githubusercontent.com/101579022/175764341-8633c04f-cdc6-446e-a71d-67b2576301b6.png" width="25px" height="25px"/> 
 </div>
+                                                                                                                                              
+**I'm setting up a pipeline to translate youtube content not available in Spanish** with Deepl's API (https://www.deepl.com/pro-api?cta=header-pro-api) and youtube-dl (https://github.com/ytdl-org/youtube-dl) **that you can find here:** https://github.com/djag477/translator.git
+                                                                                                                                              
+I've also been very interested in Nvidia's Text-To-Speech synthesis (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.                                                                   
+                                                                                                                                              
+                                                                                                                                              
+-----------------------------------------------------------------------------
 
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                              
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
