@@ -35,8 +35,8 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 -----------------------------------------------------------------------------
 
 <div style=vertical-align="middle>
-👀 **I’m interested in:** <br></br>
-Languages!  
+👀 I’m interested in: <br></br>
+**Languages!**  
   <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" >
   <img src="https://user-images.githubusercontent.com/101579022/175764406-e519492d-dae7-4431-902b-98ccfcc10c87.png" width="25px" height="25px"/> 
   <img src="https://user-images.githubusercontent.com/101579022/175764382-2d989e41-ddc6-44f2-979a-9a133f123855.png" width="25px" height="25px"/> 
