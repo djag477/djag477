@@ -63,7 +63,7 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 Currently I have 2 To-Do apps in my repositories
 
 The first one
-[[https://github.com/djag477/todo-app-react](https://djag477.github.io/first-todo-react/)](https://djag477.github.io/first-todo-react/)
+https://djag477.github.io/first-todo-react/
 
 It's a first try at a React after learning the fundamentals 
 To-Do's were being created, rendered on screen and also removed when necessary, <br></br>
