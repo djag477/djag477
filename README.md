@@ -85,10 +85,12 @@ https://github.com/djag477/misc_challenges
 
 <h1>Bootcamp projects</h1>
 
-<a href="https://djag477.github.io/survey-page/" title="Middle click on mouse to open in new tab and see deployed. Github Markdown does not support opening new pages">Survey page</a>: https://github.com/djag477/survey-page
-<a href="https://djag477.github.io/g-landing-page/" title="Middle click on mouse to open in new tab and see deployed. Github Markdown does not support opening new pages">Google Landing Page</a>: https://github.com/djag477/g-landing-page
-Guess the number: https://github.com/djag477/guessthenum
 
+| Project | Repository |
+| --- | --- |
+| <a href="https://djag477.github.io/survey-page/" title="Middle click on mouse to open in new tab and see deployed. Github Markdown does not support opening new pages">Survey page</a> | https://github.com/djag477/survey-page |
+| <a href="https://djag477.github.io/g-landing-page/" title="Middle click on mouse to open in new tab and see deployed. Github Markdown does not support opening new pages">Google Landing Page</a> | https://github.com/djag477/g-landing-page | 
+| Guess the number | https://github.com/djag477/guessthenum |
 
 
 -----------------------------------------------------------------------------
