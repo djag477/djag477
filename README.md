@@ -45,7 +45,9 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
                                                                                                                                               
 **I'm setting up a pipeline to translate youtube content not available in Spanish** with Deepl's API (https://www.deepl.com/pro-api?cta=header-pro-api) and youtube-dl (https://github.com/ytdl-org/youtube-dl) **that you can find here:** https://github.com/djag477/translator.git
                                                                                                                                               
-I've also been very interested in Nvidia's Text-To-Speech synthesis (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.
+**I've also been very interested in Nvidia's Text-To-Speech synthesis** (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.
+<br></br>
+**I have a bot running on twitter** <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester
 <br></br>
 **Marketing & Analytics** e.g.: tracking, attribution, API's and automation (WIP) 
                                                                                                                                               
