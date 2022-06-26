@@ -47,7 +47,7 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
                                                                                                                                               
 **I've also been very interested in Nvidia's Text-To-Speech synthesis** (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.
 <br></br>
-**I have a bot running on twitter** <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester
+**I have a bot deployed on Heroku and running on twitter** <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester
 <br></br>
 **Marketing & Analytics** e.g.: tracking, attribution, API's and automation (WIP) 
                                                                                                                                               
@@ -80,5 +80,15 @@ Credits to <a href="https://github.com/briancodex/react-todo-app-v1" title="Midd
 
 Different logic tests solved with Python & JS
 https://github.com/djag477/misc_challenges
+
+-----------------------------------------------------------------------------
+
+<h1>Bootcamp projects</h1>
+
+<a href="https://djag477.github.io/survey-page/" title="Middle click on mouse to open in new tab and see deployed. Github Markdown does not support opening new pages">Survey page</a>: https://github.com/djag477/survey-page
+<a href="https://djag477.github.io/g-landing-page/" title="Middle click on mouse to open in new tab and see deployed. Github Markdown does not support opening new pages">Google Landing Page</a>: https://github.com/djag477/g-landing-page
+Guess the number: https://github.com/djag477/guessthenum
+
+
 
 -----------------------------------------------------------------------------
