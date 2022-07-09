@@ -50,6 +50,8 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 **I have a bot deployed on Heroku and running on twitter** <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester
 <br></br>
 **Marketing & Analytics** e.g.: tracking, attribution, API's and automation (WIP) 
+
+This is a script to **retrieve data from the last 50 videos of a youtube channel using Youtube's API for the request and Pandas** to manipulate the dataframe https://github.com/djag477/youtube-research/blob/main/channel_research.py
                                                                                                                                               
                                                                                                                                               
 -----------------------------------------------------------------------------
