@@ -36,6 +36,12 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 
 
 👀 I’m interested in: <br></br>
+<b>Marketing & Analytics</b> e.g.: tracking, attribution, API's and automation (WIP) 
+<br></br>
+<li> This is a script to <b>retrieve data from the last 50 videos of a youtube channel using Youtube's API for the request and Pandas</b> to manipulate the dataframe https://github.com/djag477/youtube-research/blob/main/channel_research.py </li>
+<br></br>
+
+
 **Languages!**
   <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" >
   <img src="https://user-images.githubusercontent.com/101579022/175764406-e519492d-dae7-4431-902b-98ccfcc10c87.png" width="25px" height="25px"/> 
@@ -49,9 +55,7 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 <br></br>
 <li> <b>I have a bot deployed on Heroku and running on twitter</b> <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester </li>
 <br></br>
-<b>Marketing & Analytics</b> e.g.: tracking, attribution, API's and automation (WIP) 
-<br></br>
-<li> This is a script to <b>retrieve data from the last 50 videos of a youtube channel using Youtube's API for the request and Pandas</b> to manipulate the dataframe https://github.com/djag477/youtube-research/blob/main/channel_research.py </li>
+
                                                                                                                                               
                                                                                                                                               
 -----------------------------------------------------------------------------
