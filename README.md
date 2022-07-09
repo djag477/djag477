@@ -43,15 +43,15 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
   <img src="https://user-images.githubusercontent.com/101579022/175764341-8633c04f-cdc6-446e-a71d-67b2576301b6.png" width="25px" height="25px"/> 
 
                                                                                                                                               
-**I'm setting up a pipeline to translate youtube content not available in Spanish** with Deepl's API (https://www.deepl.com/pro-api?cta=header-pro-api) and youtube-dl (https://github.com/ytdl-org/youtube-dl) **that you can find here:** https://github.com/djag477/translator.git
+<li> <b>I'm setting up a pipeline to translate youtube content not available in Spanish</b> with Deepl's API (https://www.deepl.com/pro-api?cta=header-pro-api) and youtube-dl (https://github.com/ytdl-org/youtube-dl) <b>that you can find here:</b> https://github.com/djag477/translator.git</li>
                                                                                                                                               
-**I've also been very interested in Nvidia's Text-To-Speech synthesis** (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.
+<li> <b>I've also been very interested in Nvidia's Text-To-Speech synthesis</b> (https://github.com/djag477/NeMo.git). The goal is to incorporate it to the translator project and make it that most of the manual work is to tweak any translation error.</li>
 <br></br>
-**I have a bot deployed on Heroku and running on twitter** <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester
+<li> <b>I have a bot deployed on Heroku and running on twitter</b> <a href="https://twitter.com/wordle_inspo" title="Middle click on mouse to open in new tab. Github Markdown does not support opening new pages">@wordle_inspo</a> throwing daily suggestions for Wordle in case you're still into it  https://github.com/djag477/wordle-suggester </li>
 <br></br>
-**Marketing & Analytics** e.g.: tracking, attribution, API's and automation (WIP) 
-
-This is a script to **retrieve data from the last 50 videos of a youtube channel using Youtube's API for the request and Pandas** to manipulate the dataframe https://github.com/djag477/youtube-research/blob/main/channel_research.py
+<b>Marketing & Analytics</b> e.g.: tracking, attribution, API's and automation (WIP) 
+<br></br>
+<li> This is a script to <b>retrieve data from the last 50 videos of a youtube channel using Youtube's API for the request and Pandas</b> to manipulate the dataframe https://github.com/djag477/youtube-research/blob/main/channel_research.py </li>
                                                                                                                                               
                                                                                                                                               
 -----------------------------------------------------------------------------
