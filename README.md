@@ -19,6 +19,7 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 <div>
 	<img src="https://user-images.githubusercontent.com/101579022/175761197-64000830-9717-4175-93c9-827f06894b55.png" width="50px" height="50px" alt="python"/>
 	<img src="https://user-images.githubusercontent.com/101579022/175761211-c11f5a12-74f3-45a3-9443-ed559d85e550.png" width="50px" height="50px" alt="javascript"/>
+	<img src="https://user-images.githubusercontent.com/101579022/178454132-f459190d-e0ea-45f9-ae74-7198bc32cf58.png" width="50px" height="50px" alt="psql"/>
 	<img src="https://user-images.githubusercontent.com/101579022/175761868-001bb518-6d29-4984-b4e2-2e81f14e0dca.svg" width="50px" height="50px" alt="sqlite"/>
 	<img src="https://user-images.githubusercontent.com/101579022/175761214-4ebc45e0-2c2b-411c-a833-4bbcdb446488.png" width="50px" height="50px" alt="html"/>
 	<img src="https://user-images.githubusercontent.com/101579022/175761212-da983b93-4c72-4a1b-a90e-b7f8e456b489.png" width="50px" height="50px" alt="css"/>
@@ -62,6 +63,14 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 
 🌱 I’m currently learning:
 																	      
+
+<div>
+<h1><img src="https://user-images.githubusercontent.com/101579022/178454132-f459190d-e0ea-45f9-ae74-7198bc32cf58.png" width="25px" height="25px" alt="psql"/> PostgreSQL</h1>
+</div>
+
+Started using it to store data retrieved with the Youtube API (https://github.com/djag477/youtube-research/blob/main/channel_research.py) 
+So far I've set it up in both my Windows & Linux and after creating the first tables, I'm working on updating them from a python script with psycopg2
+
 <div>
 <h1><img src="https://user-images.githubusercontent.com/101579022/175761870-3db90a15-7591-4805-9bd3-44d1bd2bd088.svg" width="25px" height="25px" alt="react"/> React</h1>
 </div>
