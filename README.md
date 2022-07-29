@@ -41,7 +41,8 @@ You can reach me on <a href="https://www.linkedin.com/in/danieljag/" title="Midd
 <br></br>
 <li> This is a script to <b>retrieve data from the last 50 videos of a youtube channel using Youtube's API for the request and Pandas</b> to manipulate the dataframe https://github.com/djag477/youtube-research/blob/main/channel_research.py </li>
 <br></br>
-
+<li> And this is a script to <b>update the bidding strategy for Google Ads</b> https://github.com/djag477/google-ads-tcpa-script/blob/main/script_tCPA.js </li>
+<br></br>
 
 **Languages!**
   <img src="https://user-images.githubusercontent.com/101579022/175764386-ffd7cacb-2cf7-41ee-b795-1abd117037ce.png" width="25px" height="25px" >
